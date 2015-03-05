@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>333054C7-7777-4462-9F01-0DEAB41A402A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SongNumber</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEA2BCA2B00123D35EAF93923C40F68978030828</key>
+		<string>https://github.com/CongThanh88/KaraokeList.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SongNumber.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEA2BCA2B00123D35EAF93923C40F68978030828</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CongThanh88/KaraokeList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEA2BCA2B00123D35EAF93923C40F68978030828</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEA2BCA2B00123D35EAF93923C40F68978030828</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KaraokeList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
